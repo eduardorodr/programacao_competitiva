@@ -1,2 +1,2 @@
 # ignora os executaveis gerados pelo compilador 
-.exe
+*.exe
